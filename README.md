@@ -1,8 +1,15 @@
 # WaterWall Setup Script
 
-This repository contains the setup script for WaterWall in both English and Farsi.
+##
+
+This repository contains the setup script for tunneling powered by [WaterWall](https://github.com/radkesvat/WaterWall), with thanks to its creators: [@radkesvat](https://github.com/radkesvat). Please give the project a star to show your support!
+
+##
+این مخزن شامل اسکریپت نصب برای تونل زدن با استفاده از [WaterWall](https://github.com/radkesvat/WaterWall) می‌باشد. با تشکر از سازندگانش: [@radkesvat](https://github.com/radkesvat). لطفاً برای حمایت از پروژه به آن ستاره دهید!
 
 ## Select Language
 
 - [English](README_en.md)
 - [فارسی](README_fa.md)
+
+---
