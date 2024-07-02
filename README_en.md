@@ -2,7 +2,23 @@
 
 ## Description
 
-This script provides a comprehensive setup for WaterWall, including installation, update, and configuration options. It also includes server management functionalities such as DNS configuration and TCP optimization.
+This script is designed for tunneling servers to each other and supports a wide range of tunneling methods and capabilities, including:
+
+- Port to Port Tunnel
+- TLS Tunnel
+- PreConnect Node
+- HTTP2 Mux GRPC Nodes
+- Reverse Tunnel
+- Reality Direct Tunnel
+- Reality Reverse Tunnel
+- BGP4 Tunnel or Direct
+- Direct Trojan Protocol with Anti TLS in TLS
+- HalfDuplex Tunnel or Direct
+- Load Balancing
+- CDN Tunnel Direct or Reverse
+- Free Bind Connection
+
+It provides a comprehensive setup for WaterWall, including installation, update, and configuration options. It also includes server management functionalities such as DNS configuration and TCP optimization.
 
 ## Features
 
@@ -13,6 +29,9 @@ This script provides a comprehensive setup for WaterWall, including installation
 - Server management (DNS, BBR, optimization)
 - Automatic download retry using WARP if initial download fails
 
+## Installation
+
+To install the script, use one of the following methods:
 
 ### Method 1: Download and Run with curl
 
