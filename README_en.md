@@ -13,9 +13,6 @@ This script provides a comprehensive setup for WaterWall, including installation
 - Server management (DNS, BBR, optimization)
 - Automatic download retry using WARP if initial download fails
 
-## Installation
-
-To install the script and its prerequisites, please refer to the [installation guide](INSTALL_en.md).
 
 ### Method 1: Download and Run with curl
 
