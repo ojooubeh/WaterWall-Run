@@ -25,14 +25,23 @@ sudo apt update && sudo apt install -y dos2unix curl git && curl -L https://raw.
 #Method 2: Download and Run with wget
 ```bash
 sudo apt update && sudo apt install -y dos2unix wget git && wget https://raw.githubusercontent.com/ojooubeh/WaterWall-Run/main/install_waterwall.sh -O install_waterwall.sh && dos2unix install_waterwall.sh && chmod +x install_waterwall.sh && ./install_waterwall.sh
-```
-## Configuration
+```## Configuration
 
-For detailed configuration options, please refer to the [configuration guide](CONFIG_en.md).
+For detailed configuration options, please refer to the [WaterWall documentation](https://radkesvat.github.io/WaterWall-Docs/). Depending on your tunneling method, complete the configuration file as per the instructions provided in the WaterWall documentation. You can find the relevant sections in the script where you need to make these configurations.
 
-## Usage
+### Changing WaterWall Configuration
 
-Run the script and follow the on-screen instructions to manage WaterWall and server settings.
+You can change the WaterWall configuration by selecting the appropriate option from the menu:
+
+1. Run the script:
+    ```bash
+    ./install_waterwall.sh
+    ```
+2. Select the option to change the configuration:
+    ```plaintext
+    3. Change WaterWall configuration
+    ```
+3. The script will open the `config.json` file in a text editor. Make the necessary changes and save the file.
 
 ## Acknowledgements
 
