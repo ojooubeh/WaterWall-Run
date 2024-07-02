@@ -9,7 +9,6 @@ This repository contains the setup script for tunneling powered by [WaterWall](h
 
 ## Select Language
 
-- [English](README_en.md)
-- [فارسی](README_fa.md)
-
+- [English - Installation guide in English](README_en.md)
+- [فارسی - راهنمای نصب به فارسی](README_fa.md)
 ---
