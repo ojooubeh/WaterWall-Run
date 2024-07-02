@@ -2,6 +2,22 @@
 
 ## توضیحات
 
+این اسکریپت برای تونل کردن سرورها به یکدیگر طراحی شده است و از روش‌ها و قابلیت‌های متعددی پشتیبانی می‌کند، از جمله:
+
+- Port to Port Tunnel
+- TLS Tunnel
+- PreConnect Node
+- HTTP2 Mux GRPC Nodes
+- Reverse Tunnel
+- Reality Direct Tunnel
+- Reality Reverse Tunnel
+- BGP4 Tunnel or Direct
+- Direct Trojan Protocol with Anti TLS in TLS
+- HalfDuplex Tunnel or Direct
+- Load Balancing
+- CDN Tunnel Direct or Reverse
+- Free Bind Connection
+
 این اسکریپت یک راه‌اندازی جامع برای WaterWall فراهم می‌کند که شامل گزینه‌های نصب، به‌روزرسانی و پیکربندی می‌شود. همچنین شامل امکانات مدیریت سرور مانند تنظیمات DNS و بهینه‌سازی TCP است.
 
 ## ویژگی‌ها
@@ -12,6 +28,10 @@
 - حذف نصب WaterWall
 - مدیریت سرور (DNS، BBR، بهینه‌سازی)
 - تلاش مجدد خودکار برای دانلود با استفاده از WARP در صورت عدم موفقیت دانلود اولیه
+
+## نصب
+
+برای نصب اسکریپت، از یکی از روش‌های زیر استفاده کنید:
 
 ### روش 1: دانلود و اجرای اسکریپت با curl
 
