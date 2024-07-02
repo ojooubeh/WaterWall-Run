@@ -1,7 +1,3 @@
-
-### فایل `README_fa.md`
-
-```markdown
 # اسکریپت راه‌اندازی WaterWall
 
 ## توضیحات
