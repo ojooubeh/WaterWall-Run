@@ -5,7 +5,7 @@
 This repository contains the setup script for tunneling powered by [WaterWall](https://github.com/radkesvat/WaterWall), with thanks to its creators: [@radkesvat](https://github.com/radkesvat). Please give the project a star to show your support!
 
 ##
-این مخزن شامل اسکریپت نصب برای تونل زدن با استفاده از [WaterWall](https://github.com/radkesvat/WaterWall) می‌باشد. با تشکر از سازندگانش: [@radkesvat](https://github.com/radkesvat). لطفاً برای حمایت از پروژه به آنها ستاره دهید!
+این مخزن شامل اسکریپت نصب برای تانل زدن با استفاده از [WaterWall](https://github.com/radkesvat/WaterWall) می‌باشد. با تشکر از سازندگانش: [@radkesvat](https://github.com/radkesvat). لطفاً برای حمایت از پروژه به آنها ستاره دهید!
 
 ## Select Language
 
